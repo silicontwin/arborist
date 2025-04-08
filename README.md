@@ -1,3 +1,9 @@
+
+<div align="center">
+  <img src="github/static/Arborist_Screens.png" alt="Arborist Screens" width="100%" />
+</div>
+
+
 # Installation
 - Create venv: `python3 -m venv venv`
 - Activate venv: `source venv/bin/activate`
